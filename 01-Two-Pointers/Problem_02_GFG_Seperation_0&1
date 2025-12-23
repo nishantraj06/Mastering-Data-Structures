@@ -1,0 +1,33 @@
+// GFG 
+// Segregate 0s and 1s
+
+// User function Template for Java
+
+class Solution {
+    void segregate0and1(int[] arr) {
+        // code here
+           int  low = 0 , high = arr.length-1 ;
+            while(low < high){
+                if(arr[low] == 1  && arr[high] == 0){
+                    // swap its value 
+                    int temp = arr[low];
+                    arr[low] = arr[high];
+                    arr[high] = temp;
+                    low = low+1;
+                    high = high-1;
+                } else{
+                    if(arr[low] == 0){
+                        low = low+1;
+                    }
+                    if(arr[high] == 1){
+                        high = high-1;
+                    }
+                }
+            }
+       
+    }
+}
+
+
+// Time complexity  o(n)
+// space complexity  0(1)
