@@ -14,37 +14,10 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
 - **Goal:** Solve 180+ curated problems and understand the "Why" behind every algorithm.
 
 ---
-
-## 📊 Progress Tracker
-
-| Module | Topic | Problems | Status |
-| :--- | :--- | :---: | :--- |
-| 01 | **Two Pointers** | 3 | 🟡 In Progress |
-| 02 | **Arrays & Hashing** | 0 | ⚪ Pending |
-| 03 | **Sliding Window** | 0 | ⚪ Pending |
-| 04 | **Linked Lists** | 0 | ⚪ Pending |
-| 05 | **Recursion & Backtracking** | 0 | ⚪ Pending |
-| 06 | **Trees & Graphs** | 0 | ⚪ Pending |
-| 07 | **Dynamic Programming** | 0 | ⚪ Pending |
-
----
-
-## 🛠️ My Learning Framework
-For every problem I solve, I follow these steps:
-1. **Understand:** Read the problem twice.
-2. **Brute Force:** Solve it the "naive" way first.
-3. **Optimize:** Find a better approach using patterns like *Two-Pointers* or *HashMaps*.
-4. **Analyze:** Calculate Time Complexity $O(N)$ and Space Complexity $O(1)$.
-5. **Document:** Commit the code with clear variable names.
-
----
-
-## 📂 Repository Structure
-```text
-.
-├── 01-Two-Pointers/
-│   ├── PairSum.js
-│   ├── ValidPalindrome.js
-│   └── README.md (Explaining the logic)
-├── 02-Arrays/
-└── Resources/ (Notes & Cheat Sheets)
+| # | Problem | Topic | Logic | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | Two Sum II | Two-Pointer | Binary Search-like movement on sorted array. | ✅ |
+| 02 | Sorted Squares | Two-Pointer | Comparing squares from both ends. | ✅ |
+| 03 | seperation 0 & 1 | Two-pointeer | moves all ones at end .| ✅ | 
+| 03 | Valid Palindrome | Two-Pointer | Skipping non-alphanumeric & inward comparison. | ✅ |
+| 04 | Move Zeroes | Array Logic | Using a `zero_pointer` to swap non-zero elements. | ✅ |

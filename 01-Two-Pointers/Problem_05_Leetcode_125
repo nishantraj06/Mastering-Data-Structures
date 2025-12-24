@@ -1,0 +1,27 @@
+// Valid Palindrome
+// Leetcode 125 
+// level EAsy
+// Time complexity  o(n)
+// space complexity  0(1)
+
+class Solution {
+    public boolean isPalindrome(String s) {
+        String str = s.toLowerCase();
+        int low = 0 , high = str.length()-1;
+         while(low < high){
+            char low_val = str.charAt(low);
+            char high_val = str.charAt(high);
+                if( Character.isLetterOrDigit(low_val) &&  Character.isLetterOrDigit(high_val)){
+                    if(low_val != high_val){
+                        return false;
+                    }else{
+                        low++ ;  high--;
+                    }
+                }else{
+                     if( !Character.isLetterOrDigit(low_val))   low++;
+                    if( !Character.isLetterOrDigit(high_val))   high--;
+                }  
+        }
+        return true;
+    }
+}
