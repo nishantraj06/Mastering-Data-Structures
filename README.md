@@ -13,11 +13,13 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
 - **Primary Language:** JavaScript (MERN Stack focus).
 - **Goal:** Solve 180+ curated problems and understand the "Why" behind every algorithm.
 
----
-| # | Problem | Topic | Logic | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 01 | Two Sum II | Two-Pointer | Binary Search-like movement on sorted array. | ✅ |
-| 02 | Sorted Squares | Two-Pointer | Comparing squares from both ends. | ✅ |
-| 03 | seperation 0 & 1 | Two-pointeer | moves all ones at end .| ✅ | 
-| 03 | Valid Palindrome | Two-Pointer | Skipping non-alphanumeric & inward comparison. | ✅ |
-| 04 | Move Zeroes | Array Logic | Using a `zero_pointer` to swap non-zero elements. | ✅ |
+
+| # | Problem | Difficulty | Logic | Performance | Status |
+|---|---------|------------|-------|-------------|--------|
+| 1 | Two Sum II | Medium | Inward pointers on sorted array | 96.00% 🚀 | ✅ |
+| 2 | Sorted Squares | Easy | Two-pointer merge-style pass | $O(N)$ Time | ✅ |
+| 3 | Valid Palindrome | Easy | Skipping non-alphanumeric chars | $O(N)$ Time | ✅ |
+| 4 | Move Zeroes | Easy | Snowball/Zero-pointer swap | $O(1)$ Space | ✅ |
+| 5 | Remove Duplicates | Easy | Slow/Fast pointer overwrite | $O(1)$ Space | ✅ |
+| 6 | Sort Colors | Medium | Dutch National Flag (One-pass) | 100.00% 👑 | ✅ |
+ 7 | seperation 0 & 1 | Two-pointeer | moves all ones at end .| ✅ |

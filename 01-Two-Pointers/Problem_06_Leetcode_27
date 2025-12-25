@@ -1,0 +1,20 @@
+// Remove Duplicates from Sorted Array
+// Leetcode 27 
+// level EAsy
+// Time complexity  o(n)
+// space complexity  0(1)
+
+class Solution {
+    public int removeDuplicates(int[] arr) {
+        if (arr.length == 0) return 0;
+
+        int i = 0; // slow pointer
+        for (int j = 1; j < arr.length; j++) { // fast pointer
+            if (arr[j] != arr[i]) {
+                i++;            
+                arr[i] = arr[j]; 
+            }
+        }
+        return i + 1; 
+    }
+}
