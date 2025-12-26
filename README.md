@@ -22,4 +22,5 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
 | 4 | Move Zeroes | Easy | Snowball/Zero-pointer swap | $O(1)$ Space | ✅ |
 | 5 | Remove Duplicates | Easy | Slow/Fast pointer overwrite | $O(1)$ Space | ✅ |
 | 6 | Sort Colors | Medium | Dutch National Flag (One-pass) | 100.00% 👑 | ✅ |
- 7 | seperation 0 & 1 | Two-pointeer | moves all ones at end .| ✅ |
+ 7 | seperation 0 & 1 | easy | moves all ones at end .| ✅ |
+ | 8| Palindrome Number | Easy | String Conversion vs. Math | | ✅ |
