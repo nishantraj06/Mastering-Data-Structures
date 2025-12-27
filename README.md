@@ -24,3 +24,4 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
 | 6 | Sort Colors | Medium | Dutch National Flag (One-pass) | 100.00% 👑 | ✅ |
  7 | seperation 0 & 1 | easy | moves all ones at end .| ✅ |
  | 8| Palindrome Number | Easy | String Conversion vs. Math | | ✅ |
+ |9|  3Sum | Medium | Extension of two pointer approach |  ✅ |
