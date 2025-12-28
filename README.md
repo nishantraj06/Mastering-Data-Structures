@@ -25,3 +25,4 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
  7 | seperation 0 & 1 | easy | moves all ones at end .| ✅ |
  | 8| Palindrome Number | Easy | String Conversion vs. Math | | ✅ |
  |9|  3Sum | Medium | Extension of two pointer approach |  ✅ |
+ | 10 | Linked List Cycle | Easy | Floyd's Tortoise and Hare | ✅ |
