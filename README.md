@@ -16,13 +16,14 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
 
 | # | Problem | Difficulty | Logic | Performance | Status |
 |---|---------|------------|-------|-------------|--------|
-| 1 | Two Sum II | Medium | Inward pointers on sorted array | 96.00% 🚀 | ✅ |
-| 2 | Sorted Squares | Easy | Two-pointer merge-style pass | $O(N)$ Time | ✅ |
-| 3 | Valid Palindrome | Easy | Skipping non-alphanumeric chars | $O(N)$ Time | ✅ |
-| 4 | Move Zeroes | Easy | Snowball/Zero-pointer swap | $O(1)$ Space | ✅ |
-| 5 | Remove Duplicates | Easy | Slow/Fast pointer overwrite | $O(1)$ Space | ✅ |
-| 6 | Sort Colors | Medium | Dutch National Flag (One-pass) | 100.00% 👑 | ✅ |
+| 1 | Two Sum II | Medium | Inward pointers on sorted array | ✅ |
+| 2 | Sorted Squares | Easy | Two-pointer merge-style pass | ✅ |
+| 3 | Valid Palindrome | Easy | Skipping non-alphanumeric chars | ✅ |
+| 4 | Move Zeroes | Easy | Snowball/Zero-pointer swap  | ✅ |
+| 5 | Remove Duplicates | Easy | Slow/Fast pointer overwrite  | ✅ |
+| 6 | Sort Colors | Medium | Dutch National Flag (One-pass)  | ✅ |
  7 | seperation 0 & 1 | easy | moves all ones at end .| ✅ |
  | 8| Palindrome Number | Easy | String Conversion vs. Math | | ✅ |
  |9|  3Sum | Medium | Extension of two pointer approach |  ✅ |
  | 10 | Linked List Cycle | Easy | Floyd's Tortoise and Hare | ✅ |
+ | 10 | Linked List Cycle II | Medium | Floyd's Tortoise and Hare | ✅ |

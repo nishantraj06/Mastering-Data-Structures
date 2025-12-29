@@ -13,7 +13,7 @@ class ListNode {
      }
     }
     
-public class Solution {
+public class Problem_01_Leetcode_141{
     public boolean hasCycle(ListNode head) {
         ListNode fast = head;
         ListNode slow = head;
