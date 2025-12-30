@@ -14,7 +14,7 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
 - **Goal:** Solve 180+ curated problems and understand the "Why" behind every algorithm.
 
 
-| # | Problem | Difficulty | Logic | Performance | Status |
+| # | Problem | Difficulty | Logic  | Status |
 |---|---------|------------|-------|-------------|--------|
 | 1 | Two Sum II | Medium | Inward pointers on sorted array | ✅ |
 | 2 | Sorted Squares | Easy | Two-pointer merge-style pass | ✅ |
@@ -23,7 +23,8 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
 | 5 | Remove Duplicates | Easy | Slow/Fast pointer overwrite  | ✅ |
 | 6 | Sort Colors | Medium | Dutch National Flag (One-pass)  | ✅ |
  7 | seperation 0 & 1 | easy | moves all ones at end .| ✅ |
- | 8| Palindrome Number | Easy | String Conversion vs. Math | | ✅ |
+ | 8| Palindrome Number | Easy | String Conversion vs. Math |  ✅ |
  |9|  3Sum | Medium | Extension of two pointer approach |  ✅ |
  | 10 | Linked List Cycle | Easy | Floyd's Tortoise and Hare | ✅ |
- | 10 | Linked List Cycle II | Medium | Floyd's Tortoise and Hare | ✅ |
+ | 11 | Linked List Cycle II | Medium | Floyd's Tortoise and Hare | ✅ |
+  11 | Middle node of Linked List  | Easy | Floyd's Tortoise and Hare | ✅ |
