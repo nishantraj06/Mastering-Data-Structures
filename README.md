@@ -15,7 +15,7 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
 
 
 | # | Problem | Difficulty | Logic  | Status |
-|---|---------|------------|-------|-------------|--------|
+|---|---------|------------|-------|--------|
 | 1 | Two Sum II | Medium | Inward pointers on sorted array | ✅ |
 | 2 | Sorted Squares | Easy | Two-pointer merge-style pass | ✅ |
 | 3 | Valid Palindrome | Easy | Skipping non-alphanumeric chars | ✅ |
