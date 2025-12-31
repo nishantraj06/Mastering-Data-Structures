@@ -27,4 +27,5 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
  |9|  3Sum | Medium | Extension of two pointer approach |  ✅ |
  | 10 | Linked List Cycle | Easy | Floyd's Tortoise and Hare | ✅ |
  | 11 | Linked List Cycle II | Medium | Floyd's Tortoise and Hare | ✅ |
-  11 | Middle node of Linked List  | Easy | Floyd's Tortoise and Hare | ✅ |
+ | 11 | Middle node of Linked List  | Easy | Floyd's Tortoise and Hare | ✅ |
+ | 12 | Revserve Linked List  | Easy | Floyd's Tortoise and Hare | ✅ |
