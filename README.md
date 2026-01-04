@@ -28,4 +28,5 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
  | 10 | Linked List Cycle | Easy | Floyd's Tortoise and Hare | ✅ |
  | 11 | Linked List Cycle II | Medium | Floyd's Tortoise and Hare | ✅ |
  | 11 | Middle node of Linked List  | Easy | Floyd's Tortoise and Hare | ✅ |
- | 12 | Revserve Linked List  | Easy | Floyd's Tortoise and hare | ✅ |
+ | 12 | Revserve Linked List  | Easy | Linked list | ✅ |
+| 13 |   Delete Node in a Linked List  | Medium | Linked list | ✅ |
