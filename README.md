@@ -30,4 +30,5 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
  | 11 | Middle node of Linked List  | Easy | Floyd's Tortoise and Hare | ✅ |
  | 12 | Revserve Linked List  | Easy | Linked list | ✅ |
 | 13 |   Delete Node in a Linked List  | Medium | Linked list | ✅ |
-| 18 | Rotate List | Medium | Length calculation + Modular rotation | 100% |✅ |
+| 14| Rotate List | Medium | Length calculation + Modular rotation | 100% |✅ |
+|15|Intersection of Two Linked Lists| Two pointer approach |  ✅ |
