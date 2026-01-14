@@ -30,6 +30,7 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
  | 11 | Middle node of Linked List  | Easy | Floyd's Tortoise and Hare | ✅ |
  | 12 | Revserve Linked List  | Easy | Linked list | ✅ |
 | 13 |   Delete Node in a Linked List  | Medium | Linked list | ✅ |
-| 14| Rotate List | Medium | Length calculation + Modular rotation | 100% |✅ |
+| 14| Rotate List | Medium | Length calculation + Modular rotation | ✅ |
 |15|Intersection of Two Linked Lists| Medium |Two pointer approach |  ✅ |
 |16|Swapping Nodes in a Linked List|Easy | Floyd's Tortoise and Hare |  ✅ |
+| 17 | Merge Two Sorted Lists | Easy | Dummy node + two pointer |   ✅ |
