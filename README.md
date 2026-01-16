@@ -36,3 +36,4 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
 | 17 | Merge Two Sorted Lists | Easy | Dummy node + two pointer |   ✅ |
 |18| Baseball Game|Easy | Stack |  ✅ |
 |19| Valid Parentheses|Easy | Stack |  ✅ |
+| 20| Implement Queue using Stacks|Esay | Use of two stacks  ✅ |
