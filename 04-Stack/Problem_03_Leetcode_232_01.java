@@ -9,25 +9,21 @@ import java.util.*;
      // Add Efficient Approach
       Stack<Integer> main = new Stack<>();
       Stack<Integer> helper = new Stack<>(); 
-    
     public void push(int x) {
         main.push(x);
-    }
-    
+    } 
     public int pop() {
         while(main.size() != 1) helper.push(main.pop());
         int data = main.pop();
         while(!helper.isEmpty()) main.push(helper.pop());
         return data;
-    }
-    
+    } 
     public int peek() {
         while(main.size() != 1) helper.push(main.pop());
         int data = main.peek();
         while(!helper.isEmpty()) main.push(helper.pop());
         return data;
-    }
-    
+    } 
     public boolean empty() {
         return main.isEmpty();
     }
