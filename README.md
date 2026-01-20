@@ -40,3 +40,4 @@ This repository is a dedicated log of my journey to master Problem Solving. I am
 | 20| Implement Queue using Stacks|Esay | Use of two stacks | ✅ |
 |21 |Remove Nth Node From End of List | Medium | Dummy node + slow-fast | ✅ |
 | 22 | Next greater Element | Easy | Montonic stack | ✅ |
+| 23| Binary Search | Easy | Two-pointer  | ✅ |
